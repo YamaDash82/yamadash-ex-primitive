@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "sourceMap": true, 
+    "noImplicitAny": true, 
+    "module": "es2015", 
+    "target": "es2017", 
+    "jsx": "react", 
+    "lib": ["es2018", "dom"], 
+    "moduleResolution": "node", 
+    "removeComments": true, 
+    "strict": true, 
+    "noUnusedLocals": false, 
+    "noUnusedParameters": false, 
+    "noImplicitReturns": true, 
+    "noFallthroughCasesInSwitch": true, 
+    "strictFunctionTypes": false 
+  }
+}
